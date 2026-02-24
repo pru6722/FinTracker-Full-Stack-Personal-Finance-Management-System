@@ -83,7 +83,7 @@ npm start
 
 ## 👤 Author
 
-**Maturi Pardha Saradhi**  
+**Prudhvi Sai Lingineni**  
 
 ---
 
