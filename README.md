@@ -46,11 +46,10 @@ FinTracker is a production-ready full-stack web application that helps users man
 - Render (Backend)
 
 ---
+## 📂 Repository
 
-## 📂 Project Repositories
-
-- **Frontend:** https://github.com/pardhasaradhi-3730/fintracker-frontend  
-- **Backend:** https://github.com/pardhasaradhi-3730/fintracker-backend  
+Main Repository:
+https://github.com/pru6722/FinTracker-Full-Stack-Personal-Finance-Management-System
 
 ---
 
